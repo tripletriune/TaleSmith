@@ -20,7 +20,7 @@ This FastAPI-based backend lets you create, continue, and summarize fictional st
 ## 📦 Installation
 
 1. **Clone the repo**:
-   git clone https://github.com/yourusername/ai-storyteller-api.git
+   git clone https://github.com/tripletriune/TaleSmith
    cd ai-storyteller-api
 
 Install dependencies:
@@ -77,9 +77,6 @@ GET /slides/the_lost_kingdom/chapter1/slide_1.png
 🔐 Environment Variables
 Make sure to set your .env file with:
 OPENAI_API_KEY=your_openai_key_here
-
-📝 License
-MIT License. See LICENSE file for details.
 
 👨‍💻 Author
 Developed by Jeffrey Manuel
