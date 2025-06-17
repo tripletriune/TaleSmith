@@ -1,0 +1,44 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Story and slide data (user-generated content)
+stories/
+slides/
+*.png
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+
+# Python tooling
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
+
+# Pip environment files (optional)
+pip-log.txt
+
+# PyInstaller
+*.spec
+
+# Test/coverage (if added later)
+.coverage
+htmlcov/
+.cache/
+pytest_cache/
